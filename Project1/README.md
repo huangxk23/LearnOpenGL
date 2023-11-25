@@ -179,5 +179,5 @@ emmm虽然都有漫反射贴图但是并不是都有高光贴图。emmm统一没
 
 ##   cubemap environment mapping
 
-![img](/img/6.PNG)
+![img](img/6.PNG)
 
